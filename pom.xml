@@ -12,7 +12,7 @@
 	</parent>
 	<groupId>org.antlr</groupId>
 	<artifactId>antlr4-master</artifactId>
-	<version>4.7.2-SNAPSHOT</version>
+	<version>4.7.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>ANTLR 4</name>
@@ -169,7 +169,7 @@
             <extension>
                 <groupId>edu.illinois</groupId>
                 <artifactId>incremental-builder-with-ekstazi</artifactId>
-                <version>3.5.4</version>
+                <version>3.5.5</version>
             </extension>
         </extensions>
     </build>

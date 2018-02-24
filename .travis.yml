@@ -27,6 +27,7 @@ cache:
   - $HOME/Library/Caches/Antlr4
   - $HOME/Library/Caches/Homebrew
   - $HOME/CACHE
+  - $HOME/CACHE
   timeout: 600
 language: java
 matrix:
